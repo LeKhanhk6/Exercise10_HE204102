@@ -1,0 +1,41 @@
+
+
+body {
+  background-color: #212529 !important;
+  color: #ffffff;
+}
+
+.card {
+  background-color: #212529 !important;
+  color: white;
+  border: 1px solid #495057 !important;
+}
+
+.text-muted {
+  color: #adb5bd !important;
+}
+
+.custom-placeholder::placeholder {
+  color: #a0a0a0 !important; 
+  opacity: 1 !important;      
+}
+
+.custom-pizza-card {
+  background-color: #2c3034 !important; 
+  border: 1px solid #3d4146 !important; 
+  border-radius: 4px !important;
+  overflow: hidden;
+}
+
+.btn-buy-custom {
+  background-color: #15171a !important; 
+  color: #ffffff !important;
+  border: 1px solid #212529 !important;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.btn-buy-custom:hover {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
